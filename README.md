@@ -2,7 +2,7 @@
 
 ### Big Flavour. Made Kasi. 🔥
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" />   \<img src="[https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge](https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge](https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge)" />   \<img src="[https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge](https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge)" /> \</p>
+\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript">   \<img src="[https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge](https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge)" alt="Responsive Design">   \<img src="[https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge](https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge)" alt="LocalStorage">   \<img src="[https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge](https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge)" alt="South African Rand"> \</p>
 
 \<p align="center">   \<strong>A modern online food ordering and restaurant management platform bringing authentic Kasi flavours to a digital experience.\</strong> \</p>
 
@@ -16,14 +16,14 @@ The platform allows customers to explore the menu, customise their orders, selec
 
 It also includes a dedicated staff management portal with tools for managing orders, stock, promotions, customers and drivers.
 
-**Project Highlights:**
+### ✨ Project Highlights
 
-- Online food ordering and checkout.
-- Customer accounts and loyalty programme.
-- Delivery and collection management.
-- Order tracking and management.
-- Restaurant administration dashboard.
-- Inventory and promotional management.
+- 🛒 Online food ordering and checkout.
+- 👤 Customer accounts and loyalty programme.
+- 🚚 Delivery and collection management.
+- 📦 Order tracking and management.
+- 📊 Restaurant administration dashboard.
+- 📦 Inventory and promotional management.
 
 ---
 
@@ -44,10 +44,14 @@ It also includes a dedicated staff management portal with tools for managing ord
 
 - Free collection option.
 - Distance-based delivery pricing:
-  - 0–5 km: R15
-  - 5–10 km: R25
-  - 10–15 km: R35
-  - Over 15 km: Fee confirmation required.
+
+| Delivery Distance |              Delivery Fee |
+| ----------------- | ------------------------: |
+| 0–5 km            |                       R15 |
+| 5–10 km           |                       R25 |
+| 10–15 km          |                       R35 |
+| Over 15 km        | Fee confirmation required |
+
 - Standard and priority delivery options.
 - Delivery address and address type selection.
 - Delivery instructions and special requests.
@@ -138,7 +142,7 @@ Open the `index.html` file in your preferred browser.
 
 Alternatively, use Visual Studio Code with the Live Server extension.
 
-**Requirements:**
+### Requirements
 
 - A modern web browser.
 - Visual Studio Code (optional).
@@ -173,7 +177,7 @@ The website includes a demonstration staff portal.
 1234
 ```
 
-Available workspaces:
+### Available Workspaces
 
 - Owner Dashboard
 - Kitchen Display
@@ -216,7 +220,7 @@ Before using the platform for actual restaurant operations, the following integr
 | WhatsApp          | Official WhatsApp Business API                      |
 | Driver Management | Centralised driver assignments and delivery updates |
 
-**Security Notice:** The existing demonstration staff PIN is not secure authentication and should not be used to protect a live administration system.
+> **Security Notice:** The existing demonstration staff PIN is not secure authentication and should not be used to protect a live administration system.
 
 ---
 
@@ -247,18 +251,18 @@ GitHub will generate a public website URL once deployment is complete.
 
 ### Royal Kasi Bites
 
-📍 **Business Address**
+**Business Address**
 
 Front of 46 Anderson Street
 Promenade Shopping Centre – Kiosk D
 Nelspruit, South Africa.
 
-📞 **Contact Numbers**
+**Contact Numbers**
 
 - 079 027 9426
 - 076 770 1755
 
-💬 **WhatsApp:** [Contact Royal Kasi Bites](https://wa.me/27790279426)
+**WhatsApp:** [Contact Royal Kasi Bites](https://wa.me/27790279426)
 
 ---
 
@@ -280,4 +284,4 @@ Please contact the business owner for permission before redistributing, modifyin
 
 ---
 
-\<p align="center">   \<strong>ROYAL KASI BITES\</strong>   \<br/>   🍔 BIG FLAVOUR. MADE KASI. 🔥   \<br/>\<br/>   \<i>Bringing the taste of Kasi closer to you.\</i> \</p>
+\<p align="center">   \<strong>ROYAL KASI BITES\</strong>   \<br>   🍔 BIG FLAVOUR. MADE KASI. 🔥   \<br>\<br>   \<em>Bringing the taste of Kasi closer to you.\</em> \</p>
