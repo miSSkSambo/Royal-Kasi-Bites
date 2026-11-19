@@ -2,9 +2,14 @@
 
 ### Big Flavour. Made Kasi. 🔥
 
-\<p align="center">   \<img src="[https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)" alt="HTML5">   \<img src="[https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)" alt="CSS3">   \<img src="[https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)" alt="JavaScript">   \<img src="[https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge](https://img.shields.io/badge/Responsive-Design-2EA44F?style=for-the-badge)" alt="Responsive Design">   \<img src="[https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge](https://img.shields.io/badge/Storage-LocalStorage-orange?style=for-the-badge)" alt="LocalStorage">   \<img src="[https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge](https://img.shields.io/badge/Currency-ZAR-blue?style=for-the-badge)" alt="South African Rand"> \</p>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Responsive Design](https://img.shields.io/badge/Responsive-Design-2EA44F)
+![LocalStorage](https://img.shields.io/badge/Storage-LocalStorage-orange)
+![ZAR](https://img.shields.io/badge/Currency-ZAR-blue)
 
-\<p align="center">   \<strong>A modern online food ordering and restaurant management platform bringing authentic Kasi flavours to a digital experience.\</strong> \</p>
+**A modern online food ordering and restaurant management platform bringing authentic Kasi flavours to a digital experience.**
 
 ---
 
